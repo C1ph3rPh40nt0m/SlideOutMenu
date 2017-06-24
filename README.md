@@ -47,8 +47,8 @@ to change default values from attribute inspector of container you will see :
 - shadow radius : default is 2
 
 <h3>Shift menu options</h3>
-<h4>shift menu by percentage</h4> [ on, off] : default is off
-<h4>shift value</h4> default is 300px
+<h4>shift menu by percentage [ on, off] : default is off </h4>
+<h4>shift value default is 300px</h4> 
 when you set it to on thats mean menu is going to be showen on the screen by shift value percentage
 example if you set percentage to on & the shift value to 90 when the menu comes it will cover 90% of
 the screen from the left to the right.
