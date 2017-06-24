@@ -15,8 +15,8 @@ it is simple like a facebook menu comes from the left side of the screen to the 
 # configurations & how it works
 
 First import the class to your work path.
-- Create in your storyboard by :
-- Container ViewController => which will be the parent & its controller is instance of <b>SlideOfMenu</b>
+- Create in your storyboard :
+- Container ViewController => which will be the parent & its controller class should be inherited of <b>SlideOfMenu</b>
 - Main ViewController => which will show the main content of your controller.
 - Menu ViewController => which will show your menu comes from the left side screen to the right.
 
