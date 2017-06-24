@@ -1,5 +1,5 @@
 # SlideOutMenu
-shows a left slide out menu
+shows a left slide out menu written in swift 3.1
 # Version
 1.0.0
 # Description
