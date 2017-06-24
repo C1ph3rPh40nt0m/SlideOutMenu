@@ -36,17 +36,19 @@ import an image named menu to the Assets folder so it can be the image of your m
 to change default values from attribute inspector of container you will see :
 ![alt text](https://github.com/Marshal89/SlideOutMenu/blob/master/Settings%20Example.png?raw=true)
 
-<h3>shadow options</h3>
-- Enable shadow [ on, off] : default is on
-- Shadow Color : default is black
-- Shadow opacity [between 0.0 to 1] : default is 1
-- Shadow radius : default is 2
-- mainID main ViewController storyboard ID : default main
+<h3>Linking container with main & menu</h3>
+- mainID main ViewController storyboard ID : default main<br>
 - menuID menu ViewController storyboard ID : default menu
+
+<h3>shadow options</h3>
+- enable shadow [ on, off] : default is on<br>
+- shadow Color : default is black<br>
+- shadow opacity [between 0.0 to 1] : default is 1<br>
+- shadow radius : default is 2
 
 <h3>Shift menu options</h3>
 <h4>shift menu by percentage</h4> [ on, off] : default is off
-<h4>shift value</h4> : default 300px
+<h4>shift value</h4> default is 300px
 when you set it to on thats mean menu is going to be showen on the screen by shift value percentage
 example if you set percentage to on & the shift value to 90 when the menu comes it will cover 90% of
 the screen from the left to the right.
