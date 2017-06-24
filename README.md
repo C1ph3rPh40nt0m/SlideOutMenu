@@ -53,5 +53,5 @@ the screen from the left to the right.
 if yo set percentage to off & the shift value to 270 it will cover 270px from the screen.
 " note don't type either % or px after the shift value percentage option will determine"
 
-<h3>left menu bar image</h3>
+<h3>left menu bar button image</h3>
 Menu Image from assets : default is menu
