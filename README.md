@@ -16,13 +16,15 @@ it is simple like a facebook menu comes from the left side of the screen to the 
 
 First import the class to your work path.
 - Create in your storyboard by :
-- Container ViewController => which will be the parent.
+- Container ViewController => which will be the parent & instance of <b>SlideOfMenu</b>
 - Main ViewController => which will show the main content of your controller.
 - Menu ViewController => which will show your menu comes from the left side screen to the right.
+
 #####################
 - Set the storyboard IDs :
 - type main as a storyboard ID to the main view controller.
 - type menu as a storyboard ID to the menu view controller.
+
 #####################
 - Finally :
 import an image named menu to the Assets folder so it can be the image of your menu bar button.
